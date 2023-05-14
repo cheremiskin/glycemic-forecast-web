@@ -6,3 +6,4 @@ backend/venv
 
 **/*.log
 **/*.sqlite3
+**/*.pyc
