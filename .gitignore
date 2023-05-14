@@ -1,4 +1,8 @@
 .idea
+.DS_Store
 
 backend/.idea
 backend/venv
+
+**/*.log
+**/*.sqlite3
